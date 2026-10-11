@@ -1,0 +1,19 @@
+split,metodo,RMSE,MAE,R2,entry valutate
+"distribuito (mean radius, concavity, worst radius)",Media,0.17701027343360953,0.14778098216819335,0.10871597861777704,47
+"distribuito (mean radius, concavity, worst radius)",Lineare matriciale (completo),0.024074938675991996,0.011987198096305428,0.9835126994845375,47
+"distribuito (mean radius, concavity, worst radius)",Lineare matriciale (complete-case),0.037201244117721015,0.01633096292084182,0.9606328383794853,47
+"distribuito (mean radius, concavity, worst radius)",Ridge matriciale (completo),0.020563555575565374,0.011619427499344668,0.9879713858690684,47
+"distribuito (mean radius, concavity, worst radius)",Ridge matriciale (complete-case),0.02733853881062525,0.01449917204936759,0.9787396812149499,47
+"distribuito (mean radius, concavity, worst radius)","PCA (r=24, validation)",0.02456710201946564,0.01321209130091007,0.9828317102824402,47
+"distribuito (mean radius, concavity, worst radius)","SVD (r=24, validation)",0.024519616331383814,0.013194934351006177,0.9828980152258849,47
+"distribuito (mean radius, concavity, worst radius)",PCA (r=6),0.0523336974858754,0.03395136640036472,0.9220920074412806,47
+"distribuito (mean radius, concavity, worst radius)",SVD (r=6),0.05228547895894322,0.03399180468580309,0.9222355049662303,47
+concentrato (radius family),Media,0.17378678705124234,0.14465747334772805,0.24134809416947856,47
+concentrato (radius family),Lineare matriciale (completo),0.022893588381015243,0.010339415466851642,0.9868345173490286,47
+concentrato (radius family),Lineare matriciale (complete-case),0.015061552118357718,0.00805434979951522,0.9943016581061886,47
+concentrato (radius family),Ridge matriciale (completo),0.01848455448867766,0.009591596345433643,0.9914172389735523,47
+concentrato (radius family),Ridge matriciale (complete-case),0.02357528502903577,0.011646905188931318,0.9860387935506648,47
+concentrato (radius family),"PCA (r=24, validation)",0.030102081629755414,0.011682825885569414,0.9772384358403681,47
+concentrato (radius family),"SVD (r=24, validation)",0.030139584882968168,0.011686960957579052,0.9771816846513969,47
+concentrato (radius family),PCA (r=6),0.050101337315862846,0.03236344537897056,0.9369467202502731,47
+concentrato (radius family),SVD (r=6),0.050067288361035474,0.03241709632442387,0.9370323933628494,47

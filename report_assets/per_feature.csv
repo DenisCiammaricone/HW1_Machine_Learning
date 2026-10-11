@@ -1,0 +1,28 @@
+metodo,feature,RMSE
+Media,mean_radius,0.17448782365181847
+Media,mean_concavity,0.17046007915887434
+Media,worst_radius,0.20232819186119047
+Lineare matriciale (completo),mean_radius,0.0025561646036282464
+Lineare matriciale (completo),mean_concavity,0.039088171687688425
+Lineare matriciale (completo),worst_radius,0.006048553248153535
+Lineare matriciale (complete-case),mean_radius,0.002958121287862845
+Lineare matriciale (complete-case),mean_concavity,0.08844975589500409
+Lineare matriciale (complete-case),worst_radius,0.007960785750208912
+Ridge matriciale (completo),mean_radius,0.00309951490316156
+Ridge matriciale (completo),mean_concavity,0.0379165527192233
+Ridge matriciale (completo),worst_radius,0.007612688779484444
+Ridge matriciale (complete-case),mean_radius,0.0047258044659721846
+Ridge matriciale (complete-case),mean_concavity,0.05999114331271621
+Ridge matriciale (complete-case),worst_radius,0.012017246211133011
+"PCA (r=24, validation)",mean_radius,0.004207392395784018
+"PCA (r=24, validation)",mean_concavity,0.03934960073257457
+"PCA (r=24, validation)",worst_radius,0.006735940950008346
+"SVD (r=24, validation)",mean_radius,0.004109752695243551
+"SVD (r=24, validation)",mean_concavity,0.03911860586530116
+"SVD (r=24, validation)",worst_radius,0.00670801344933151
+PCA (r=6),mean_radius,0.03074533998779838
+PCA (r=6),mean_concavity,0.0612350327705802
+PCA (r=6),worst_radius,0.03798587179845615
+SVD (r=6),mean_radius,0.030857114905922883
+SVD (r=6),mean_concavity,0.061232917080372
+SVD (r=6),worst_radius,0.03808143239343834

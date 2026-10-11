@@ -1,0 +1,22 @@
+{
+  "n_train": 426,
+  "n_train_complete_case": 166,
+  "linear_predictors": 27,
+  "linear_coefficient_shape": [
+    28,
+    3
+  ],
+  "n_validation": 85,
+  "n_test": 58,
+  "rank_pca": 24,
+  "rank_svd": 24,
+  "variance_r6": 0.9103011885927252,
+  "variance_r24": 0.9990126305941529,
+  "max_common_prediction_gap": 0.0,
+  "max_common_projector_gap": 0.0,
+  "mask_counts": {
+    "train": 353,
+    "val": 74,
+    "test": 50
+  }
+}

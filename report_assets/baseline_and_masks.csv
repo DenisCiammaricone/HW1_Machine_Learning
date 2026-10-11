@@ -1,0 +1,4 @@
+feature,training_mean_complete,training_mean_observed_only,training_observed,training_hidden,test_observed,test_hidden
+mean_radius,0.34740968603013606,0.353796088092084,319,107,39,19
+mean_concavity,0.20815624752265965,0.20355621973035468,301,125,41,17
+worst_radius,0.29692021451607803,0.2915372278694358,305,121,44,14
